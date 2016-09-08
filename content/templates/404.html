@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %} {{ SITENAME }} - Page Not Found {% endblock %}
+{% block piwikdoctitle %} 
+_paq.push(['setDocumentTitle', '404/URL = '+String(document.location.pathname+document.location.search).replace(/\//g,"%2f") + '/From = ' + String(document.referrer).replace(/\//g,"%2f")]); 
+{% endblock %}
+{% block content %}
+The page you are looking for doesn't seem to exist!
+{% endblock %}
