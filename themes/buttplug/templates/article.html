@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "blog_base.html" %}
 {% block meta %}
   {% if article.author %}
     <meta name="author" content="{{ article.author }}" />
@@ -47,57 +47,13 @@
 {% block canonical_rel %}
   <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
 {% endblock %}
-{% block content %}
-  <div class="container mtb">
-	  <div class="row">
-      <div class="col-lg-8">
-        <a href="{{ SITEURL }}/{{ article.url }}"><h3 class="ctitle">{{ article.title }}</h3></a>
-		 	  <p><csmall>Posted: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time></csmall></p>
-        {{ article.content }}
-		 	  <div class="spacing"></div>
-        <hr/>
-      </div>
-      <! -- SIDEBAR -->
-	 	  <div class="col-lg-4">
-		 	  <h4>Search</h4>
-		 	  <div class="hline"></div>
-		 	  <p>
-		 		  <br/>
-		 		  <input type="text" class="form-control" placeholder="Search something">
-		 		</p>
 
-		 		<div class="spacing"></div>
-		 		
-		 		<h4>Categories</h4>
-		 		<div class="hline"></div>
-			 	<p><a href="#"><i class="fa fa-angle-right"></i> Wordpress</a> <span class="badge badge-theme pull-right">9</span></p>
-			 	<p><a href="#"><i class="fa fa-angle-right"></i> Photoshop</a> <span class="badge badge-theme pull-right">3</span></p>
-			 	<p><a href="#"><i class="fa fa-angle-right"></i> Web Design</a> <span class="badge badge-theme pull-right">11</span></p>
-			 	<p><a href="#"><i class="fa fa-angle-right"></i> Development</a> <span class="badge badge-theme pull-right">5</span></p>
-			 	<p><a href="#"><i class="fa fa-angle-right"></i> Tips & Tricks</a> <span class="badge badge-theme pull-right">7</span></p>
-			 	<p><a href="#"><i class="fa fa-angle-right"></i> Code Snippets</a> <span class="badge badge-theme pull-right">12</span></p>
-
-		 		<div class="spacing"></div>
-
-		 		<h4>Tags</h4>
-		 		<div class="hline"></div>
-		 		<p>
-		      <a class="btn btn-theme" href="#" role="button">Design</a>
-		      <a class="btn btn-theme" href="#" role="button">Wordpress</a>
-		      <a class="btn btn-theme" href="#" role="button">Flat</a>
-		      <a class="btn btn-theme" href="#" role="button">Modern</a>
-		      <a class="btn btn-theme" href="#" role="button">Wallpaper</a>
-		      <a class="btn btn-theme" href="#" role="button">HTML5</a>
-		      <a class="btn btn-theme" href="#" role="button">Pre-processor</a>
-		      <a class="btn btn-theme" href="#" role="button">Developer</a>
-		      <a class="btn btn-theme" href="#" role="button">Windows</a>
-		      <a class="btn btn-theme" href="#" role="button">Phothosop</a>
-		      <a class="btn btn-theme" href="#" role="button">UX</a>
-		      <a class="btn btn-theme" href="#" role="button">Interface</a>
-		      <a class="btn btn-theme" href="#" role="button">UI</a>
-		      <a class="btn btn-theme" href="#" role="button">Blog</a>
-		 		</p>
-	 		</div>
-	 	</div><! --/row -->
-	</div><! --/container -->
-{% endblock content %}
+{% block blog_content %}
+  <div class="col-lg-8">
+    <a href="{{ SITEURL }}/{{ article.url }}"><h3 class="ctitle">{{ article.title }}</h3></a>
+		<p><csmall>Posted: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time></csmall></p>
+    {{ article.content }}
+		<div class="spacing"></div>
+    <hr/>
+  </div>
+{% endblock %}
