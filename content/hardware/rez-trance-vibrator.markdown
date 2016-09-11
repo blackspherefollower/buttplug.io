@@ -11,7 +11,19 @@ powerful vibrator motor.
 
 ### Developer Resources
 
-Device and Protocol Documentation: [https://buttplug.io/rez-trancevibrator/protocol-documentation/](https://buttplug.io/rez-trancevibrator/protocol-documentation/)
+#### Device and Protocol Documentation
+
+* Device and Protocol Documentation
+    * [https://buttplug.io/rez-trancevibrator/protocol-documentation/](https://buttplug.io/rez-trancevibrator/protocol-documentation/)
+
+#### libtrancevibe
+
+libtrancevibe allows developers to connect to Trance Vibrators and
+compatible devices, and set the speed of the vibration motor.
+
+_NOTE:_ Due to changes in Windows >= 8.1, the Trance Vibrator may no
+longer be recognized by Windows upon connection. We are currently
+working to resolve this issue.
 
 <img src="/images/hardware/rust-lang.svg" class="hardware-icon" alt="Rust">
 
