@@ -9,6 +9,28 @@ The Rez Trance Vibrator is a USB Playstation 2 Peripheral that was
 released in 2003 with the video game Rez. It contains a single,
 powerful vibrator motor.
 
+### Developer Resources
+
+Device and Protocol Documentation: [https://buttplug.io/rez-trancevibrator/protocol-documentation/](https://buttplug.io/rez-trancevibrator/protocol-documentation/)
+
+<img src="/images/hardware/rust-lang.svg" class="hardware-icon" alt="Rust">
+
+* libtrancevibe-rs
+    * [Github Repo](https://github.com/metafetish/libtrancevibe-rs)
+    * [Crates.io Package](https://crates.io/libtrancevibe)
+
+<img src="/images/hardware/c-lang.svg" class="hardware-icon" alt="C">
+
+* libtrancevibe
+    * [Github Repo](https://github.com/metafetish/libtrancevibe)
+
+### Buttplug Support
+
+Buttplug supports the Rez TranceVibrator via the following messages:
+
+* SingleSpeed 
+* RawTranceVibrator
+
 ### Where You Can Buy Them
 
 The original Rez Trance Vibrator is no longer produced. It can
@@ -25,25 +47,6 @@ a replica of the original TranceVibrator control hardware, minus the
 motor. Users can use small bullet/egg vibrators with the controller,
 as long as they do not pull more power than a single USB bus can
 provide.
-
-### Developer Resources
-
-Device and Protocol Documentation: [https://buttplug.io/rez-trancevibrator/protocol-documentation/](https://buttplug.io/rez-trancevibrator/protocol-documentation/)
-
-![Rust](/images/hardware/rust-lang.svg)
-
-* libtrancevibe-rs
-    * [Github Repo](https://github.com/metafetish/libtrancevibe-rs)
-    * [Crates.io Package](https://crates.io/libtrancevibe)
-
-![C](/images/hardware/c-lang.svg)
-
-* libtrancevibe
-    * [Github Repo](https://github.com/metafetish/libtrancevibe)
-
-### Buttplug Support
-
-Buttplug supports the Rez TranceVibrator via the SingleSpeed and RawTranceVibrator messages.
 
 ### Relevant Applications and Links
 

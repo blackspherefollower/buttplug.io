@@ -251,7 +251,7 @@ ces Wrap */
 	  padding: 15px;
 }
 
-.hardware-content img {
+.hardware-icon {
     height: 100px;
     width: auto
 }
@@ -264,6 +264,11 @@ ces Wrap */
     list-style: square inside;
     margin-left: 1em;
     font-size: 12pt;
+}
+
+/* For some reason pelican is putting paragraphs in list bullets sometimes. */
+.hardware-content li > p {
+    display: inline;
 }
 
 /* Portfolio Wrap */
