@@ -1,9 +1,10 @@
 Title: Future Sex Archive Project - Issue 1
 Date: 2016-08-23 10:52
-Tags: futuresex, magazine, archives
+Category: Buttplug Development
+Tags: buttplug, software
 Slug: future-sex-archive-project--issue-1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac mauris aliquam, elementum nibh at, cursus dui. Vivamus non ex eleifend, sodales nulla nec, suscipit augue. Mauris pretium orci vitae dui convallis sodales. Aliquam non nisi at risus imperdiet interdum vel id purus. Fusce non enim leo. Nam sed blandit ex, quis mollis arcu. Nunc aliquet vehicula diam quis accumsan. Nulla malesuada tincidunt orci, non posuere quam pulvinar quis. Integer sit amet elit enim. Phasellus sodales eros sed imperdiet tempus. Duis vel ligula ultrices, viverra leo in, bibendum dui. Vestibulum sed purus maximus, imperdiet arcu ac, efficitur mauris. Phasellus quis lectus nec magna tristique molestie. Quisque metus massa, ullamcorper vel congue vel, eleifend ullamcorper tellus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac mauris aliquam, elementum nibh at, cursus dui. Vivamus non ex eleifend, sodales nulla nec, suscipit augue. Mauris pretium orci vitae dui convallis sodales. Aliquam non nisi at risus imperdiet interdum vel id purus. Fusce non enim leo. Nam sed blandit ex, quis mollis arcu. Nunc aliquet vehicula diam quis accumsan. Nulla malesuada tincidunt orci, non posuere quam pulvinar quis. Integer sit amet elit enim. Phasellus sodales eros sed imperdiet tempus. Duis vel ligula ultrices, viverra leo in, bibendum dui. Vestibulum sed purus maximus, imperdiet arcu ac, efficitur mauris. Phasellus quis lectus nec magna tristique molestie. Quisque metus massa, ullamcorper vel congue vel, eleifend ullamcorper tellus. [This is a test link to see how links look.](https://buttplug.io)
 
 <!--more-->
 
