@@ -15,8 +15,8 @@ and RS-232 serial communication.
 #### Protocol Documentation, Schematics, Firmware
 
 * ET-312 Serial Protocol Documentation
-    * [HTML Documentation](https://buttplug.io/rez-trancevibrator/protocol-documentation/)
-    * [Github Repo](https://buttplug.io/rez-trancevibrator/protocol-documentation/)
+    * [HTML Documentation](https://docs.buttplug.io/et312-protocol/)
+    * [Github Repo](https://github.com/metafetish/buttshock-protocol-docs/)
 
 * ET-312 Firmware Disassembly
     * [Github Repo](https://github.com/metafetish/buttshock-et312-firmware/)
@@ -41,12 +41,12 @@ hardware that allows for it, etc...
 
 <img src="/images/hardware/node-lang.svg" class="hardware-icon" alt="node.js">
 
-[![Build Status](https://img.shields.io/travis/metafetish/buttshock-js.svg)](https://travis-ci.org/metafetish/buttshock-js) [![npm](https://img.shields.io/npm/v/buttshock.svg)](https://npmjs.com/package/buttshock) [![codeclimate coverage](https://codeclimate.com/github/metafetish/buttshock-js/badges/coverage.svg)](https://codeclimate.com/github/metafetish/buttshock-js) [![codeclimate health](https://codeclimate.com/github/metafetish/buttshock-js/badges/gpa.svg)](https://codeclimate.com/github/metafetish/buttshock-js) [![docs](https://img.shields.io/badge/docs-latest-blue.svg)](https://www.buttshock.com/doc/buttshock-js) 
+[![Build Status](https://img.shields.io/travis/metafetish/buttshock-js.svg)](https://travis-ci.org/metafetish/buttshock-js) [![npm](https://img.shields.io/npm/v/buttshock.svg)](https://npmjs.com/package/buttshock) [![codeclimate coverage](https://codeclimate.com/github/metafetish/buttshock-js/badges/coverage.svg)](https://codeclimate.com/github/metafetish/buttshock-js) [![codeclimate health](https://codeclimate.com/github/metafetish/buttshock-js/badges/gpa.svg)](https://codeclimate.com/github/metafetish/buttshock-js) [![docs](https://img.shields.io/badge/docs-latest-blue.svg)](https://docs.buttplug.io/buttshock-js) 
 
 * buttshock-js
     * [Github Repo](https://github.com/metafetish/buttshock-js)
     * [npm Module Page](https://www.npmjs.com/package/buttshock)
-    * [Documentation](https://www.buttshock.com/doc/buttshock-js/)
+    * [Documentation](https://docs.buttplug.io/buttshock-js/)
 
 <img src="/images/hardware/python-lang.svg" class="hardware-icon" alt="Python">
 
