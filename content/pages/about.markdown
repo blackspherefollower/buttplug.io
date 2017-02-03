@@ -1,5 +1,6 @@
 title: About Buttplug
 slug: about
+template: hardware
 
 # Buttplug - For Users
 
@@ -12,15 +13,17 @@ Up until now, you'd be stuck trying to figure out how to accommodate
 your needs with whatever the toy manufacturer gives you. Buttplug is a
 way around that. Buttplug software allows developers to easily build
 applications, games, and other software that will control all sorts of
-toys, instead of just one type of toy.
+toys, instead of just one type of toy. Better yet, Buttplug is open
+source, so if you want to write your own software to do whatever it is
+you want, you have access to all the functionality you need.
 
-In terms of extensibility, Buttplug is built to take care of both
-simple and exotic needs. What if the application you want to use only
-supports vibration, but you want to use it with electrostim? It may
-not be a perfect replication of the feeling, but Buttplug provides a
-way to at least try that kind of pairing. Be it a normal bluetooth
-vibrator, all the way up to position controlled fucking machines,
-Buttplug is there to make sure it works.
+Buttplug is built to take care of both simple and exotic sex toy
+needs. What if the application you want to use only supports
+vibration, but you want to use it with electrostim? It may not be a
+perfect replication of the feeling, but Buttplug provides a way to try
+that kind of pairing. Be it a normal bluetooth vibrator, all the way
+up to position controlled fucking machines, Buttplug is there to help
+make sure you get off in the way you want.
 
 # Buttplug - For Developers
 
@@ -35,8 +38,8 @@ multiple sex toys, software that centralizes and scripts controls to
 suit the needs of users has been around for years. For instance,
 programs and libraries such as:
 
-- [VRPN](https://github.com/vrpn/vrpn),
-- [OSCulator](http://www.osculator.net/),
+- [VRPN](https://github.com/vrpn/vrpn)
+- [OSCulator](http://www.osculator.net/)
 - [FreePIE](http://andersmalmgren.github.io/FreePIE/) 
 
 All of these allow users to take an arbitrary set of supported
@@ -104,3 +107,5 @@ server and toy supports that message.
 ### Connections and Communication
 
 ### Command Filtering and Adaptation
+
+## Buttplug Application Examples

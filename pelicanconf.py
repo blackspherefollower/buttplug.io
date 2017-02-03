@@ -24,9 +24,9 @@ TRANSLATION_FEED = None
 FEED_MAX_ITEMS = 10
 
 # Relative to content dir
-PAGE_PATHS = ['hardware/']
-PAGE_URL = 'hardware/{slug}/'
-PAGE_SAVE_AS = 'hardware/{slug}/index.html'
+PAGE_PATHS = ['hardware/', 'pages/']
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
 ARTICLE_PATHS = ['posts']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -62,7 +62,7 @@ EXTRA_PATH_METADATA = {
     'extras/robots.txt': {'path': 'robots.txt'}
 }
 
-EXTRA_TEMPLATES_PATHS = ['content/hardware/templates']
+EXTRA_TEMPLATES_PATHS = ['content/templates']
 
 TEMPLATE_PAGES = {'templates/index.html': "index.html",
                   'templates/404.html': "404/index.html"}

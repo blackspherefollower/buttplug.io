@@ -1,5 +1,5 @@
 title: Rez Trance Vibrator
-slug: rez-trance-vibrator
+slug: hardware/rez-trance-vibrator
 template: hardware
 og_image: images/hardware/trance-vibrator-image.jpg
 

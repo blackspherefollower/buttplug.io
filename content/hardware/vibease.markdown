@@ -1,4 +1,4 @@
 title: Vibease Toys
-slug: vibease
+slug: hardware/vibease
 template: hardware
 og_image: images/hardware/vibease-image.jpg

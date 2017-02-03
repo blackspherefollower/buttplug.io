@@ -1,5 +1,5 @@
 title: Erostek ET-312
-slug: erostek-et312
+slug: hardware/erostek-et312
 template: hardware
 og_image: images/hardware/erostek-et312-image.jpg
 

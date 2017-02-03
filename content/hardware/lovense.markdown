@@ -1,5 +1,5 @@
 title: Lovense Toys
-slug: lovense
+slug: hardware/lovense
 template: hardware
 og_image: images/hardware/lovense-image.jpg
 
