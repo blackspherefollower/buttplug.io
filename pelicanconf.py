@@ -86,7 +86,15 @@ SHOW_ARTICLE_CATEGORY = False
 PIWIK_URL = "apps.nonpolynomial.com/piwik"
 PIWIK_SITE_ID = "5"
 
-MD_EXTENSIONS = ['codehilite', 'extra', 'video']
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {},
+        'markdown.extensions.extra': {},
+        'video': {},
+    },
+    'output_format': 'html5',
+}
+
 TWITTER_CARDS = True
 USE_OPEN_GRAPH = True
 TWITTER_USERNAME = "buttplugio"
