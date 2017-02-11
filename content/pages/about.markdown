@@ -1,7 +1,7 @@
 title: About Buttplug
 slug: about
 template: hardware
-og_image: images/Buttplug.png
+og_image: images/buttplug.png
 
 # Buttplug - For Users
 
