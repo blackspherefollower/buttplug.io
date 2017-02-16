@@ -10,7 +10,8 @@ og_image: images/hardware/lovense-image.jpg
 #### Device and Protocol Documentation
 
 * Device and Protocol Documentation
-    * [https://buttplug.io/rez-trancevibrator/protocol-documentation/](https://buttplug.io/rez-trancevibrator/protocol-documentation/)
+    * [Formatted Documentation](https://lovesense-docs.readthedocs.org/)
+    * [Documentation Repo on Github](https://github.com/metafetish/lovesense-docs/)
 
 #### lovesense
 
