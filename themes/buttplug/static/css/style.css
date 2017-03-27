@@ -101,6 +101,10 @@ a:focus {
 	  color: white;
 }
 
+.navbar-default .navbar-nav {
+    text-transform: uppercase;
+}
+
 .navbar-default .navbar-nav > li > a {
 	  color: white;
 	  font-weight: 700;
