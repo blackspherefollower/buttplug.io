@@ -65,6 +65,7 @@ EXTRA_PATH_METADATA = {
 EXTRA_TEMPLATES_PATHS = ['content/templates']
 
 TEMPLATE_PAGES = {'templates/index.html': "index.html",
+                  'templates/github.html': "github.html",
                   'templates/404.html': "404/index.html"}
 
 # MENUITEMS = (('bio', '/about'),

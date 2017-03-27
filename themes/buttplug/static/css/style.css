@@ -495,3 +495,13 @@ csmall2 {
 	  padding-right: 15px;
 	  font-size: 18px;
 }
+
+#github-feed {
+    height: 500px;
+    width: 100%;
+    border: 0;
+}
+
+#indexbloglist {
+    font-size: 18px;
+}
