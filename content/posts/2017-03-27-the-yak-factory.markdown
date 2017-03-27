@@ -3,12 +3,15 @@ Date: 2017-03-26 17:56
 Category: Buttplug Development
 Tags: buttplug, software
 Slug: the-yak-factory
+og_image: images/2017-03-26-the-yak-factory/yak.jpg
 
 <center><img src='/images/2017-03-26-the-yak-factory/yak.jpg' width=75% height=75%></center>
 
 When writing software for hobby projects, there's a tendency to go
 "Oh, I want to learn [thing]" and add that to the stack of things
 required to build the project. So far, buttplug has been no exception.
+
+<!--more-->
 
 Using [Rust](http://www.rustlang.org) to build the desktop version was
 a great start for that. While Rust is a fantastic language that's

@@ -46,10 +46,12 @@
         <meta property="og:title" content="{{ SITENAME }}"/>
         <meta property="og:url" content="{{ SITEURL }}"/>
         <meta property="og:description" content="{{ SITENAME }}"/>
-        {% if OPEN_GRAPH_IMAGE %}
-          <meta property="og:image"
-                content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
-        {% endif %}
+        {% block og_image %}
+          {% if OPEN_GRAPH_IMAGE %}
+            <meta property="og:image"
+                  content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
+          {% endif %}
+        {% endblock %}
       {% endblock %}
     {% endif %}
 

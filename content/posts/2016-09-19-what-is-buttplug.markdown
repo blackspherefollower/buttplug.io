@@ -12,6 +12,8 @@ protocol for controlling sex tech hardware. This would give developer
 a generic stream of data that could define certain properties of a
 playback or communication situation. 
 
+<!--more-->
+
 For instance, imagine a movie that has abstract data embedded in it
 about pressure, speed, friction, and other metrics needed to replicate
 the physical situation being portrayed. Toys that translate this data
