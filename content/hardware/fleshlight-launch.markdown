@@ -28,8 +28,9 @@ The raunch library aims to provides bluetooth functionality for
 controlling and getting information from the Fleshlight Launch. It can
 also load firmware onto the toy.
 
-#### raunch-js
 <img src="/images/hardware/node-lang.svg" class="hardware-icon" alt="node.js">
+
+#### raunch-js (node.js/WebBluetooth)
 
 * [Github Repo](https://github.com/metafetish/raunch-js)
 
